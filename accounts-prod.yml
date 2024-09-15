@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Sravya accounts related prod APIs "
+  message: "Welcome to Sravya accounts related prod webhooks APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}35dc3972a54aa8a6c9d5e7611872580258198f99ee8388617753f17d272b23582364de53b9038317d33af5f9e5578d6a"
